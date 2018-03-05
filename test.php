@@ -3,3 +3,4 @@ CASE
     WHEN
     THEN
 END
+test
