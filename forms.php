@@ -4,11 +4,6 @@
 require_once('settings.php');
 require_once('functions.php');
 
-
-//іва іаіва
-    // іва
-
-    // іваіва
 ?>
 <!DOCTYPE html>
 <html>
